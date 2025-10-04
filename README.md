@@ -55,7 +55,7 @@ src/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/VictorMenestrel/gpt2-from-scratch.git
    cd gpt-2-from-scratch
    ```
 
