@@ -48,7 +48,7 @@ src/
 │   ├── poitionnal_embedding_layer.py # Positional embeddings
 │   ├── transformer_block.py        # Complete transformer block
 │   └── gpt2_model.py              # Complete GPT-2 model
-└── main.py                         # Entry point
+main.py                         # Entry point
 ```
 
 ## 📦 Installation
