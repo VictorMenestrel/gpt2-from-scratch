@@ -123,7 +123,7 @@ class GPT2Model(nn.Module):
         for _ in range(max_new_tokens):
             # Forward pass
             with torch.no_grad():
-                # TODO : this line seems wrong
+                # Get logits for current input_ids
                 logits = self(input_ids)  # [batch, seq, vocab]
 
                 # Get logits for last token and apply temperature
