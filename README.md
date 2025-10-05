@@ -35,6 +35,10 @@ Language Modeling Head
 Output Logits
 ```
 
+![alt text](doc/image.png)
+
+*Image credit: [Sebastian Raschka](https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the)*
+
 ## 🏗️ Project Structure
 
 ```
